@@ -1,0 +1,1 @@
+data = pd.read_csv("https://raw.githubusercontent.com/SachinkumarSakthivel/PROJECT-1/main/apple_products.csv")
